@@ -19,10 +19,6 @@
 </p>
 
 
-
-
-
-<h3 align="center">Contact: <br>
   - 📫 Reach me via wasimahmad.qc@gmail.com</h3>
 <p align="left">
 </p>
