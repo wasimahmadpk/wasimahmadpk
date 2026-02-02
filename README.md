@@ -9,10 +9,7 @@
 <h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" alt="img" style="  height: 205px; width: 250px;"></h1>
 
 <p align="center"> AI/Data Scientist with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
-        Currently pursuing a Ph.D. in Causal Inference/Deep Learning at the Computer Vision Group in Jena, Germany. 
-        My research focuses on causal discovery methods and its applications, i.e., climate-ecosystems interactions, geophysical systems and neuroscience. 
-        I have extensive experience working in predictive maintenance, anomaly detection, and sensor data analysis for the rail industry. 
-        I have published research in prestigious journals and conferences. Proficient in Python, machine learning libraries, LLMs, and frameworks like AWS SageMaker, and Spark. </p>
+        Ph.D. in Causal Inference/Deep Learning (FSU Jena). Causal discovery and applications in climate, geophysics, and neuroscience. Industry background in predictive maintenance, anomaly detection, and sensor data (Strukton Rail). Publications in top venues. Strong in Python, ML, LLMs, AWS SageMaker, Spark. </p>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile%20views&color=0e75b6&style=flat" alt="wasimahmadpk" />
