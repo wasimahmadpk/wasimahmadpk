@@ -1,31 +1,26 @@
-<h1 align="center">
-  Hi 👋, I'm Wasim Ahmad
-</h1>
+# Hi 👋, I'm Wasim Ahmad
 
-<h3 align="center">
-  Ph.D. · Causal Inference · Deep Learning · Data Science
-</h3>
+### Ph.D. · Causal Inference · Deep Learning · Data Science
 
 <p align="center">
   <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" width="360" />
 </p>
 
 <p align="center">
-  <b>Research & Industry Focus</b><br>
-  Causal Discovery · Predictive Maintenance · ML Systems · Scalable AI
+  Research-driven Machine Learning · Causal Discovery · Predictive Maintenance · Scalable AI Systems
 </p>
 
 <p align="center">
   <a href="mailto:wasimahmad.qc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://github.com/wasimahmadpk">
-    <img src="https://img.shields.io/badge/GitHub-wasimahmadpk-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-wasimahmadpk-black?style=flat-square&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -33,10 +28,10 @@
 ## 🧠 About Me
 
 - 🎓 **Ph.D. in Causal Inference & Deep Learning**
-- 🔬 Research-driven ML with real-world deployment
-- ⚙️ End-to-end ML systems (data → model → cloud)
-- ☁️ Cloud-native ML on **AWS & Spark**
-- 🧩 Strong in both **theory + engineering**
+- 🔬 Strong focus on **theory + real-world ML deployment**
+- ⚙️ End-to-end ML systems: data → model → cloud
+- ☁️ Cloud-native ML on **AWS, Spark**
+- 🧩 Background in **software engineering & data science**
 
 ---
 
@@ -63,11 +58,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasimahmadpk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasimahmadpk&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Wasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasimahmadpk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimahmadpk&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasimahmadpk&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimahmadpk&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** wasimahmad.qc@gmail.com
+- 💻 **GitHub:** https://github.com/wasimahmadpk
