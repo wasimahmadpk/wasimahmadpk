@@ -28,10 +28,10 @@
 ## 🧠 About Me
 
 - 🎓 **Ph.D. in Causal Inference & Deep Learning**
-- 🔬 Strong focus on **theory + real-world ML deployment**
+- 🔬 Research-focused ML with real-world deployment
 - ⚙️ End-to-end ML systems: data → model → cloud
-- ☁️ Cloud-native ML on **AWS, Spark**
-- 🧩 Background in **software engineering & data science**
+- ☁️ Cloud-native ML on **AWS & Spark**
+- 🧩 Strong background in **software engineering**
 
 ---
 
@@ -56,17 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Wasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasimahmadpk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasimahmadpk&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimahmadpk&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 
-- 📧 **Email:** wasimahmad.qc@gmail.com
+- 📧 **Email:** wasimahmad.qc@gmail.com  
 - 💻 **GitHub:** https://github.com/wasimahmadpk
