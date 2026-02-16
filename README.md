@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wasim Ahmad
 
-### Ph.D. · Causal Inference · Deep Learning · Data Science
+### Doctorate in Engineering · Causal Inference · Deep Learning · Data Science
 
 <p align="center">
   <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" width="360" />
