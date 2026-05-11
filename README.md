@@ -1,62 +1,100 @@
-# Hi 👋, I'm Wasim Ahmad
+<div align="center">
 
-### Doctorate in Engineering · Causal Inference · Deep Learning · Data Science
+# Wasim Ahmad
 
-<p align="center">
-  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" width="360" />
-</p>
+### Ph.D. · Causal Inference · Deep Learning · Data Science
 
-<p align="center">
-  Research-driven Machine Learning · Causal Discovery · Predictive Maintenance · Scalable AI Systems
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research-driven+Machine+Learning+Engineer;Causal+Discovery+%26+Deep+Learning;Predictive+Maintenance+%26+Anomaly+Detection;End-to-end+AI+Systems+%7C+AWS+%26+Spark)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="mailto:wasimahmad.qc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://github.com/wasimahmadpk">
-    <img src="https://img.shields.io/badge/GitHub-wasimahmadpk-black?style=flat-square&logo=github" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+[![Email](https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimahmad.qc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-wasimahmadpk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasimahmadpk)
+[![Profile Views](https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/wasimahmadpk)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 **Ph.D. in Causal Inference & Deep Learning**
-- 🔬 Research-focused ML with real-world deployment
-- ⚙️ End-to-end ML systems: data → model → cloud
-- ☁️ Cloud-native ML on **AWS & Spark**
-- 🧩 Strong background in **software engineering**
+I am a **Doctorate in Engineering** specialising in **causal inference**, **deep learning**, and **time-series analysis**. My work sits at the intersection of rigorous statistical theory and production-grade ML systems — from causal discovery in complex dynamical systems to scalable predictive models deployed on cloud infrastructure.
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TmPTEZkQ4kBiQqZlwVH0MQ.png" width="60"/>
-  <img src="https://ts.gluon.ai/stable/_static/gluonts.svg" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" width="45"/>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="55"/>
-</p>
+- **Research focus:** Causal discovery, Granger causality, state-space models, probabilistic forecasting
+- **Applied domains:** Predictive maintenance, industrial IoT, climate data, anomaly detection
+- **Systems:** End-to-end ML pipelines — data ingestion → model training → cloud deployment
+- **Infrastructure:** AWS, Apache Spark, Docker, CI/CD
 
 ---
 
-## 📫 Contact
+## Tech Stack
 
-- 📧 **Email:** wasimahmad.qc@gmail.com  
-- 💻 **GitHub:** https://github.com/wasimahmadpk
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![GluonTS](https://img.shields.io/badge/GluonTS-00ADEF?style=flat-square&logo=amazon&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Data & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Research Interests
+
+| Area | Focus |
+|---|---|
+| **Causal Inference** | Granger causality, causal discovery in multivariate time series, intervention modelling |
+| **Deep Learning** | Temporal models (LSTM, Transformer, DeepAR), probabilistic forecasting, uncertainty quantification |
+| **Predictive Maintenance** | Anomaly detection, remaining useful life estimation, industrial sensor data |
+| **Climate & Environmental ML** | Ecosystem carbon flux forecasting, FLUXNET data, physics-informed models |
+| **Scalable AI** | Distributed training on Spark, AWS deployment, MLOps pipelines |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wasimahmadpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimahmadpk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wasimahmadpk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+| Channel | Link |
+|---|---|
+| **Email** | wasimahmad.qc@gmail.com |
+| **GitHub** | github.com/wasimahmadpk |
+
+*Open to research collaborations, consulting, and senior ML engineering roles.*
+
+</div>
