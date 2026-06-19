@@ -2,14 +2,15 @@
 
 # Wasim Ahmad
 
-### Ph.D. · Causal Inference · Deep Learning · Data Science
+### Ph.D. · ML Engineer · Causal Inference · Recommender Systems · Deep Learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research-driven+Machine+Learning+Engineer;Causal+Discovery+%26+Deep+Learning;Predictive+Maintenance+%26+Anomaly+Detection;End-to-end+AI+Systems+%7C+AWS+%26+Spark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=640&lines=ML+Engineer+%7C+Research-informed+Production+AI;Hybrid+Recommenders+%26+Learned+Ranking;Causal+Discovery+%26+A%2FB+Experimentation;Predictive+Maintenance+%7C+Time+Series+%7C+AWS)](https://git.io/typing-svg)
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimahmad.qc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wasimahmadpk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasimahmadpk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wasimahmadpk.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wasimahmadpk.github.io/portfolio/)
 [![Profile Views](https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/wasimahmadpk)
 
 </div>
@@ -18,12 +19,27 @@
 
 ## About Me
 
-I am a **Doctorate in Engineering** specialising in **causal inference**, **deep learning**, and **time-series analysis**. My work sits at the intersection of rigorous statistical theory and production-grade ML systems — from causal discovery in complex dynamical systems to scalable predictive models deployed on cloud infrastructure.
+**Ph.D. in Engineering** — I build **production ML systems** backed by solid statistics, not slide-deck models.
 
-- **Research focus:** Causal discovery, Granger causality, state-space models, probabilistic forecasting
-- **Applied domains:** Predictive maintenance, industrial IoT, climate data, anomaly detection
-- **Systems:** End-to-end ML pipelines — data ingestion → model training → cloud deployment
-- **Infrastructure:** AWS, Apache Spark, Docker, CI/CD
+I work at the intersection of **applied ML**, **causal reasoning**, and **scalable software**: recommender feeds, experimentation, time-series forecasting, and anomaly detection — from notebook to deployed API.
+
+- **What I ship:** Hybrid recommenders, ranking models, causal analysis tools, forecasting & monitoring pipelines
+- **How I work:** Problem → baseline → offline metrics → deploy → iterate (A/B tests, logs, drift checks)
+- **Strengths:** Time series, multivariate signals, retrieval + ranking, interpretable drivers vs raw correlation
+- **Stack:** Python, PyTorch / scikit-learn, FastAPI, AWS, Spark, Docker, CI/CD
+
+*Research depth when it matters — product impact always comes first.*
+
+---
+
+## Featured Projects
+
+| Project | What it shows |
+|---|---|
+| **[MedX](https://github.com/wasimahmadpk/MedX)** | Hybrid recommender (content + collaborative filtering + learned ranker), context-aware feeds, live FastAPI + Vercel demo |
+| **[MPact](https://github.com/wasimahmadpk/mpact)** | Causal discovery + **A/B experimentation** (MDE, power, sample size, significance analysis) — browser + API |
+| **Predictive maintenance / IoT** | Anomaly detection, RUL-style forecasting, sensor time series |
+| **Climate / FLUXNET ML** | Probabilistic forecasting, ecosystem flux modelling |
 
 ---
 
@@ -38,12 +54,13 @@ I am a **Doctorate in Engineering** specialising in **causal inference**, **deep
 ### Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-005CB9?style=flat-square&logo=lightgbm&logoColor=white)
 ![GluonTS](https://img.shields.io/badge/GluonTS-00ADEF?style=flat-square&logo=amazon&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Data & Cloud
+### Data, Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -51,21 +68,21 @@ I am a **Doctorate in Engineering** specialising in **causal inference**, **deep
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## Research Interests
+## What I Work On
 
-| Area | Focus |
+| Area | Industry-relevant focus |
 |---|---|
-| **Causal Inference** | Granger causality, causal discovery in multivariate time series, intervention modelling |
-| **Deep Learning** | Temporal models (LSTM, Transformer, DeepAR), probabilistic forecasting, uncertainty quantification |
-| **Predictive Maintenance** | Anomaly detection, remaining useful life estimation, industrial sensor data |
-| **Climate & Environmental ML** | Ecosystem carbon flux forecasting, FLUXNET data, physics-informed models |
-| **Scalable AI** | Distributed training on Spark, AWS deployment, MLOps pipelines |
+| **Recommender Systems** | Hybrid retrieval (content + CF), learned ranking, context-aware feeds, event-log features, offline Recall@K / NDCG |
+| **Experimentation & Causal ML** | A/B test design (MDE, power), Granger / causal graphs, driver discovery for product decisions |
+| **Time Series & Forecasting** | DeepAR / LSTM / Transformers, probabilistic forecasts, uncertainty for ops teams |
+| **Predictive Maintenance** | Anomaly detection, sensor pipelines, remaining useful life, industrial IoT |
+| **MLOps & Scale** | Batch + streaming on Spark, containerised APIs on AWS, CI/CD, monitoring |
 
 ---
 
@@ -80,7 +97,7 @@ I am a **Doctorate in Engineering** specialising in **causal inference**, **deep
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wasimahmadpk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wasimahmadpk&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -94,7 +111,8 @@ I am a **Doctorate in Engineering** specialising in **causal inference**, **deep
 |---|---|
 | **Email** | wasimahmad.qc@gmail.com |
 | **GitHub** | github.com/wasimahmadpk |
+| **Portfolio** | wasimahmadpk.github.io/portfolio |
 
-*Open to research collaborations, consulting, and senior ML engineering roles.*
+*Open to ML engineering, recommender systems, applied data science, and research-informed product roles.*
 
 </div>
