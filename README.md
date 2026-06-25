@@ -23,7 +23,7 @@
 
 I work at the intersection of **applied ML**, **causal reasoning**, and **scalable software**: recommender feeds, experimentation, time-series forecasting, and anomaly detection — from notebook to deployed API.
 
-- **What I ship:** Hybrid recommenders, ranking models, causal analysis tools, forecasting & monitoring pipelines
+- **What I ship:** Hybrid recommenders, ranking models, causal analysis tools, RAG apps, forecasting & monitoring pipelines
 - **How I work:** Problem → baseline → offline metrics → deploy → iterate (A/B tests, logs, drift checks)
 - **Strengths:** Time series, multivariate signals, retrieval + ranking, interpretable drivers vs raw correlation
 - **Stack:** Python, PyTorch / scikit-learn, FastAPI, AWS, Spark, Docker, CI/CD
@@ -34,12 +34,15 @@ I work at the intersection of **applied ML**, **causal reasoning**, and **scalab
 
 ## Featured Projects
 
-| Project | What it shows |
-|---|---|
-| **[MedX](https://github.com/wasimahmadpk/MedX)** | Hybrid recommender (content + collaborative filtering + learned ranker), context-aware feeds, live FastAPI + Vercel demo |
-| **[MPact](https://github.com/wasimahmadpk/mpact)** | Causal discovery + **A/B experimentation** (MDE, power, sample size, significance analysis) — browser + API |
-| **Predictive maintenance / IoT** | Anomaly detection, RUL-style forecasting, sensor time series |
-| **Climate / FLUXNET ML** | Probabilistic forecasting, ecosystem flux modelling |
+| Project | What it shows | Stack | Links |
+|---|---|---|---|
+| **[MedX](https://github.com/wasimahmadpk/MedX)** | Hybrid **medical content recommender** — TF-IDF content filtering + SVD collaborative filtering + learned ranker; context-aware feeds (lunch vs evening); carousel UI + REST API | FastAPI · scikit-learn · NumPy · Vercel | [Live demo](https://med-x-plum.vercel.app) · [Repo](https://github.com/wasimahmadpk/MedX) |
+| **[MPact](https://github.com/wasimahmadpk/mpact)** | **Causal analysis platform** — upload CSV, run correlation matrix, causal discovery, and **A/B experimentation** (MDE, power, sample size, significance) | Python · FastAPI · Streamlit · Render | [Live demo](https://mpact-38bf.onrender.com) · [Repo](https://github.com/wasimahmadpk/mpact) |
+| **[vCare](https://github.com/wasimahmadpk/vcare)** | **Industrial condition monitoring** — fault detection, severity scoring, and RUL-style analytics for rail, pipelines, turbines, and rotating machinery | React · Node.js · time-series analytics · Vercel | [Live demo](https://vcare-lyart.vercel.app) · [Repo](https://github.com/wasimahmadpk/vcare) |
+| **[FruitQ](https://github.com/wasimahmadpk/fruitesQ)** | **Vision-based ripeness detection** — CLIP model classifies fruit type and ripeness; inventory ranked by shipping urgency to cut food waste | CLIP · FastAPI · Streamlit · Docker · GCP Cloud Run | [Repo](https://github.com/wasimahmadpk/fruitesQ) · [Portfolio](https://wasimahmadpk.github.io/portfolio/fruitq.html) |
+| **[QAbot](https://github.com/wasimahmadpk/qabot)** | **Document Q&A with RAG** — upload PDF/TXT/DOCX, ask questions, get grounded answers with source citations; built-in eval suite for retrieval quality | LlamaIndex · ChromaDB · OpenAI · Streamlit | [Repo](https://github.com/wasimahmadpk/qabot) |
+
+> More projects (JobTracker, Rabta, and others) on my [portfolio](https://wasimahmadpk.github.io/portfolio/#projects).
 
 ---
 
