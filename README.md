@@ -37,7 +37,7 @@ Recently at the **Computer Vision Group, Jena**: causal structure discovery and 
 | **Causal ML & experiments** | Discovery graphs, Granger-style drivers, A/B design (MDE, power), intervention-aware product decisions |
 | **Time series** | DeepAR / LSTM / Transformers, probabilistic forecasts, uncertainty for ops |
 | **Predictive maintenance** | Sensor pipelines, anomaly detection, remaining useful life, industrial IoT |
-| **MLOps** | Spark batch, containerised FastAPI on AWS, CI/CD, monitoring |
+| **MLOps** | Spark batch, containerised FastAPI on AWS, MLflow, CI/CD, monitoring |
 
 ---
 
@@ -45,11 +45,16 @@ Recently at the **Computer Vision Group, Jena**: causal structure discovery and 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,pytorch,tensorflow,opencv,fastapi,django,aws,gcp,docker,linux,git,githubactions,sklearn&perline=8" alt="Tech stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/LightGBM-005CB9?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </div>
 
 <br/>
 
-Python · PyTorch · scikit-learn · LightGBM · GluonTS · FastAPI · Spark · AWS · Docker · SQL · MATLAB
+Python · PyTorch · scikit-learn · LightGBM · GluonTS · FastAPI · Spark · MLflow · AWS · Docker · SQL · MATLAB
 
 ---
 
