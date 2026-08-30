@@ -2,7 +2,7 @@
 
 # Wasim Ahmad
 
-**D.Eng · Machine Learning Engineer · Causal Inference**
+**D.Eng · Machine Learning Engineer · Predictive Maintenance · Causal Inference**
 
 Jena, Germany · Production ML · Recommenders · Experimentation · Time Series
 
