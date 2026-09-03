@@ -1,80 +1,30 @@
-<div align="center">
-
 # Wasim Ahmad
 
-**D.Eng · Machine Learning Engineer · Predictive Maintenance · Causal Inference**
+Doctorate in Engineering, University of Twente.  
+I build production machine learning systems — recommenders, causal analysis, and industrial time series — from a measurable baseline to a deployed service.
 
-Jena, Germany · Production ML · Recommenders · Experimentation · Time Series
+Jena, Germany
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=680&lines=Research-informed+production+ML;Hybrid+Recommenders+%26+Learned+Ranking;Causal+Discovery+%26+A%2FB+Experimentation;Predictive+Maintenance+%7C+Forecasting+%7C+AWS)](https://git.io/typing-svg)
-
-[![Email](https://img.shields.io/badge/Email-wasimahmad.qc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimahmad.qc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wasim--ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-ahmad-73293767)
-[![GitHub](https://img.shields.io/badge/GitHub-wasimahmadpk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasimahmadpk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-wasimahmadpk.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wasimahmadpk.github.io/portfolio/)
-
-</div>
+[Email](mailto:wasimahmad.qc@gmail.com)&ensp;·&ensp;[LinkedIn](https://www.linkedin.com/in/wasim-ahmad-73293767)&ensp;·&ensp;[Portfolio](https://wasimahmadpk.github.io/portfolio/)
 
 ---
 
-## About
+At the Computer Vision Group in Jena I work on causal structure discovery and intervention analysis for nonlinear sensor time series. Before that I built rail condition monitoring with Strukton (Netherlands) and fault-diagnosis / remaining-useful-life models at the Ulsan Industrial AI Lab (South Korea).
 
-Doctorate in Engineering (University of Twente). I build **production ML systems** with statistical discipline — recommenders, causal analysis, forecasting, and industrial monitoring — from baseline to deployed API.
+I prefer interpretable drivers to raw correlation, and product evidence to models that only live in a slide deck.
 
-Recently at the **Computer Vision Group, Jena**: causal structure discovery and intervention analysis on nonlinear sensor time series (neuroscience, climate, industrial). Before that, predictive maintenance at **Strukton Rail** (Netherlands) and fault-diagnosis / RUL research at **Ulsan Industrial AI Lab** (South Korea).
+## Selected work
 
-- **Ship:** hybrid retrieval + ranking, causal / A/B tooling, RAG, forecasting & condition-monitoring pipelines
-- **Loop:** problem → baseline → offline metrics → deploy → iterate (experiments, logs, drift)
-- **Bias:** interpretable drivers over raw correlation; product impact over slide-deck models
+**[CDMI](https://github.com/wasimahmadpk/cdmi)** — Causal discovery on multivariate nonlinear time series.  
+**[RailAI](https://github.com/wasimahmadpk/strukton_project)** — Defect detection from axle-box acceleration, developed with Strukton Rail.  
+**[vcare](https://github.com/wasimahmadpk/vcare)** — Predictive maintenance for machines and infrastructure.  
+**[MedX](https://github.com/wasimahmadpk/MedX)** — Ranking: the right medical article, for the right reader, at the right time.  
+**[MPact](https://github.com/wasimahmadpk/mpact)** — What drives the data, not what merely correlates.
 
----
+## Tools
 
-## Focus
-
-| Area | What I actually do |
-|---|---|
-| **Recommenders** | Hybrid retrieval (content + CF), learned ranking, context features, offline Recall@K / NDCG |
-| **Causal ML & experiments** | Discovery graphs, Granger-style drivers, A/B design (MDE, power), intervention-aware product decisions |
-| **Time series** | DeepAR / LSTM / Transformers, probabilistic forecasts, uncertainty for ops |
-| **Predictive maintenance** | Sensor pipelines, anomaly detection, remaining useful life, industrial IoT |
-| **MLOps** | Spark batch, containerised FastAPI on AWS, MLflow, CI/CD, monitoring |
+Python, PyTorch, scikit-learn, LightGBM, GluonTS, FastAPI, Spark, MLflow, AWS, Docker.
 
 ---
 
-## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,pytorch,tensorflow,opencv,fastapi,django,aws,gcp,docker,linux,git,githubactions,sklearn&perline=8" alt="Tech stack" />
-  <br/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/LightGBM-005CB9?style=for-the-badge&logo=microsoft&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-</div>
-
-<br/>
-
-Python · PyTorch · scikit-learn · LightGBM · GluonTS · FastAPI · Spark · MLflow · AWS · Docker · SQL · MATLAB
-
----
-
-## GitHub
-
-<!-- Official github-readme-stats.vercel.app is often paused (503). This host is a community HA instance of the same project. -->
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=wasimahmadpk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=contribs&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wasimahmadpk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS,Dockerfile,HCL&cache_seconds=86400" alt="Top languages" />
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[wasimahmad.qc@gmail.com](mailto:wasimahmad.qc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wasim-ahmad-73293767) · [GitHub](https://github.com/wasimahmadpk) · [Portfolio](https://wasimahmadpk.github.io/portfolio/)
-
-*Open to ML engineering, recommender systems, applied data science, and research-informed product roles.*
-
-</div>
+Open to ML engineering, recommender systems, and research-informed product roles.
